@@ -10,7 +10,7 @@ for each tab list item to your liking.
 **This library is not actively maintained, but if you are interested in contributing, go right ahead!**
 
 **Dependencies:**
-* Any derivative of Bukkit 1.8 or 1.9
+* Any derivative of Bukkit 1.8 to 1.19
 * [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/)
 
 **Demonstration:**
@@ -31,7 +31,7 @@ See: [Jitpack](https://jitpack.io/#thekeenant/tabbed/v1.8) for specifics.
 
 <dependencies>
   <dependency>
-    <groupId>com.github.thekeenant</groupId>
+    <groupId>com.github.keinesecrets</groupId>
     <artifactId>tabbed</artifactId>
     <version>v1.8</version>
   </dependency>
